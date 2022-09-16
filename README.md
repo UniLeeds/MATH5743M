@@ -1,4 +1,4 @@
-# MATH5741M Statistical Theory and Methods (33874)
+# MATH5743M Statistical Learning (33875)
 ## Week 1
 * [StatLearnWeek1.pdf](StatLearnWeek1.pdf)
 * [StatLearnSlidesWeek1.pdf](StatLearnWeek1.pdf)
