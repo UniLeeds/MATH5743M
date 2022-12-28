@@ -1,4 +1,4 @@
-# MATH5743M Statistical Learning (33875)
+# MATH5743M Statistical Learning
 ## Week 1
 * [StatLearnWeek1.pdf](StatLearnWeek1.pdf)
 * [StatLearnSlidesWeek1.pdf](StatLearnWeek1.pdf)
